@@ -1,0 +1,13 @@
+a = "p['debug"
+b = "list']"
+c = "%s %s"%(a, b)
+
+d = "[fla"
+e = "g]"
+f = "%s%s" % (d,e)
+
+g = "="
+
+
+h="%s%s%s"%(c,g,f)
+print(h)
